@@ -87,7 +87,7 @@ return {
         title = "Aerial",
         ft = "aerial",
         pinned = true,
-        open = "AerialOpen",
+        open = "AerialOpen!",
       })
     end,
   },
